@@ -1,7 +1,7 @@
 {
     "main": ".open-next/worker.js",
     "name": "blogtest1",
-    "compatibility_date": "2025-10-19",
+    "compatibility_date": "2025-03-25",
     "compatibility_flags": [
         "nodejs_compat"
     ],
